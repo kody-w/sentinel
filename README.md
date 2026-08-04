@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repo is superseded by [kody-w/rapp-sentinel](https://github.com/kody-w/rapp-sentinel).**
+>
+> Same pattern, developed further: outside neighbors can now join the
+> neighborhood by publishing a head, so a sentinel is no longer confined to
+> watching one machine. Development continues there; this copy is frozen.
+
 # sentinel
 
 **A watchdog that can't quietly lie to you, and a repair arm that only spends money when something is actually broken.**
